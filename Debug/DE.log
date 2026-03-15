@@ -1,0 +1,21 @@
+﻿Build started 6/27/2019 5:26:44 PM.
+     1>Project "C:\Users\MSI PC\Desktop\THESIS\DE CODE\VC_code - Hybrid\DE_C++\DE.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\DE.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\DE.unsuccessfulbuild".
+         Touching "Debug\DE.lastbuildstate".
+     1>Done Building Project "C:\Users\MSI PC\Desktop\THESIS\DE CODE\VC_code - Hybrid\DE_C++\DE.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
