@@ -66,9 +66,9 @@ If you find this code or the underlying research helpful for your work, please c
 ---
 ## 🙌 Acknowledgments
 
-* **Dr. [cite_start]Rainer Storn and Kenneth Price:** For inventing Differential Evolution [cite: 16] [cite_start]and making their original `de.c` (version 3.6) code publicly available[cite: 544].
+* **Dr. Rainer Storn and Kenneth Price:** For inventing Differential Evolution and making their original `de.c` (version 3.6) code publicly available.
 * **Charles Brauer:** For the Visual Studio 2010 compatibility updates.
-* [cite_start]**Co-authors:** Afrina Zahan Mithila and Mohammad Shafiul Alam for their valuable contributions to the 2024 paper[cite: 3].
+* **Co-authors:** Afrina Zahan Mithila and Mohammad Shafiul Alam for their valuable contributions.
 
 ---
 ## 👨‍💻 Author
