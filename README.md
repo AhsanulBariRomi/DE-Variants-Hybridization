@@ -73,7 +73,7 @@ If you find this code or the underlying research helpful for your work, please c
 ---
 ## 👨‍💻 Author
 
-**Md Ahsanul Bari (Romi)** * **Email:** wakerbari@gmail.com
+**Md Ahsanul Bari (Romi)** * **Email:** mdahsanulbari1997@gmail.com
 * **GitHub:** [@AhsanulBariRomi](https://github.com/AhsanulBariRomi)
 * **Affiliations:**
   * Technische Universität Dresden, Germany
