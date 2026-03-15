@@ -75,5 +75,6 @@ If you find this code or the underlying research helpful for your work, please c
 
 **Md Ahsanul Bari (Romi)** * **Email:** wakerbari@gmail.com
 * **GitHub:** [@AhsanulBariRomi](https://github.com/AhsanulBariRomi)
-* **Affiliations:** * Technische Universität Dresden, Germany
+* **Affiliations:**
+  * Technische Universität Dresden, Germany
   * Ahsanullah University of Science and Technology, Bangladesh
